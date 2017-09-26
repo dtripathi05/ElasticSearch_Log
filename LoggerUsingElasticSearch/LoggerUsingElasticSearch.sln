@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerUsingElasticSearch", "LoggerUsingElasticSearch\LoggerUsingElasticSearch.csproj", "{C9822B17-3AB8-4309-80F5-FA0B1ABA1F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESLog.Test", "ESLog.Test\ESLog.Test.csproj", "{E4049CC5-6A0E-4B1E-B3F3-1D1E59D1505E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9822B17-3AB8-4309-80F5-FA0B1ABA1F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9822B17-3AB8-4309-80F5-FA0B1ABA1F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9822B17-3AB8-4309-80F5-FA0B1ABA1F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9822B17-3AB8-4309-80F5-FA0B1ABA1F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4049CC5-6A0E-4B1E-B3F3-1D1E59D1505E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4049CC5-6A0E-4B1E-B3F3-1D1E59D1505E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4049CC5-6A0E-4B1E-B3F3-1D1E59D1505E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4049CC5-6A0E-4B1E-B3F3-1D1E59D1505E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ADD8D89-FB96-41A1-8759-088C0106ED2E}
+	EndGlobalSection
+EndGlobal
